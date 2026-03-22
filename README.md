@@ -1,5 +1,5 @@
 # Alooo 👋
-##### Hello, my name is Samuel Wijaya. I'm currently a student and studying about
+#### Hello, my name is Samuel Wijaya. I'm currently a student and studying about
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
 ## GitHub Stats:
